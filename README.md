@@ -18,10 +18,10 @@ test paper
 
 ```python
 @article{ni2020towards,
-  title={Just Noticeable Distortion Profile Inference: A Patch-level Structural Visibility Learning Approach},
+  title={Just Noticeable Distortion Profile Inference: A Patch-level Structural Visibility Learning                     Approach},      
   author={Xuelin Shen, Zhangkai Ni, Wenhan Yang, Xinfeng Zhang, Shiqi Wang,  and Sam Kwong},
   booktitle={IEEE TIP},
   year={2020}
 }
 ```
-[github链接]（https://github.com/）
+[github链接](https://github.com/)
